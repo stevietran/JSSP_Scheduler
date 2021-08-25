@@ -2,6 +2,8 @@
 
 A Job Shop Scheduling App
 
+![Alt text](https://github.com/stevietran/JSSP_Scheduler/ui.PNG)
+
 Program written in Python 3 for importing and generating production schedule of job shop production system.
 
 ## TOOLS
