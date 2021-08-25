@@ -1,0 +1,5 @@
+Job ID,Op1_MachineID,Op1_Time,Op2_MachineID,Op2_Time,Op3_MachineID,Op3_Time,Op4_MachineID,Op4_Time,Op5_MachineID,Op5_Time
+0,0,3,1,2,2,2,,,,
+1,0,2,2,1,1,4,,,,
+2,1,4,2,3,,,,,,
+3,2,1,0,12,1,15,,,,

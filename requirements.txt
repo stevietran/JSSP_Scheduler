@@ -1,0 +1,5 @@
+dash==1.13.3
+Flask==1.1.2
+pandas==1.0.5
+numpy==1.19.0
+ortools==9.0.9048
